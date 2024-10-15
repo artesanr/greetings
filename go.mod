@@ -1,3 +1,3 @@
-module gitlab.com/berizaryad_project/devops/greetings
+module github.com/artesanr/greetings
 
 go 1.23.0
